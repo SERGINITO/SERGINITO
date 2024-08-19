@@ -13,8 +13,8 @@
 
 ## Contacto
 
-- **Correo Electrónico:** [tu_email@example.com](mailto:sercarra@outlook.com)
-- **Twitter:** [@tu_usuario](https://x.com/SERGINITO)
+- **Correo Electrónico:** [ercarra@outlook.com](mailto:sercarra@outlook.com)
+- **Twitter:** [@SERGINITO](https://x.com/SERGINITO)
 
 ## Estadísticas de GitHub
 
