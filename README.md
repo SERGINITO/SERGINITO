@@ -13,7 +13,7 @@
 
 ## Contacto
 
-- **Correo Electrónico:** [ercarra@outlook.com](mailto:sercarra@outlook.com)
+- **Correo Electrónico:** [sercarra@outlook.com](mailto:sercarra@outlook.com)
 - **Twitter:** [@SERGINITO](https://x.com/SERGINITO)
 
 ## Estadísticas de GitHub
